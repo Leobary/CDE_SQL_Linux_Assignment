@@ -9,6 +9,8 @@ This assignment is part of the requirement to fulfill the participation in the *
 This involves using a well sequenced and detailed bash script to perform ETL (Extract, Transform and Load) on a csv file downloade via a URL link. The different stages
 for this process are captured below.
 
+![A Simple ETL Pipeline](./simpleETLPipeline.PNG)
+
 - **Extract:** The csv file used for this task can be downloaded by clicking on this [link](https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv).
 The file is saved to a folder called `raw`.
 
